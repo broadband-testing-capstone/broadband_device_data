@@ -1,0 +1,9 @@
+
+ --- NETWORK MEASUREMENTS ---
+
+ --- google ping latency (MANDATORY) ---
+Packet Loss: 0.0%
+Average RTT: 19.349 (ms)
+Minimum RTT: 22.84 (ms)
+Maximum RTT: 26.531 (ms)
+RTT Std Dev: 2.445 (ms)

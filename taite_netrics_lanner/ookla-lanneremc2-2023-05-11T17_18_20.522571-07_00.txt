@@ -1,0 +1,18 @@
+
+ --- NETWORK MEASUREMENTS ---
+
+ --- google ping latency (MANDATORY) ---
+Packet Loss: 0.0%
+Average RTT: 16.071 (ms)
+Minimum RTT: 18.661 (ms)
+Maximum RTT: 21.67 (ms)
+RTT Std Dev: 1.721 (ms)
+
+ --- Ookla speed tests ---
+Download:	947.304376 Mb/s
+Upload:		41.674464 Mb/s
+Latency:	21.247 ms
+Jitter:		2.199 ms
+PktLoss:	not returned by test.
+{'total_bytes_consumed': 1241506191, 'ipquery': {'ipv4': '71.236.197.151'}, 'ping_latency': {'google_packet_loss_pct': 0.0, 'google_rtt_min_ms': 16.071, 'google_rtt_max_ms': 21.67, 'google_rtt_avg_ms': 18.661, 'google_rtt_mdev_ms': 1.721, 'error': False}, 'ookla': {'speedtest_ookla_download': 947.304376, 'speedtest_ookla_upload': 41.674464, 'speedtest_ookla_jitter': 2.199, 'speedtest_ookla_latency': 21.247, 'speedtest_ookla_server_host': 'eugene.speedtest.centurylink.net', 'speedtest_ookla_server_name': 'CenturyLink', 'speedtest_ookla_server_id': 17358, 'ookla_error': False}}
+Consumption UPDATE: 1241506191 of 38196682503 bytes (35.6GiB).

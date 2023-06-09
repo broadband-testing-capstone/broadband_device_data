@@ -1,0 +1,17 @@
+
+ --- NETWORK MEASUREMENTS ---
+
+ --- google ping latency (MANDATORY) ---
+Packet Loss: 0.0%
+Average RTT: 18.745 (ms)
+Minimum RTT: 23.155 (ms)
+Maximum RTT: 27.599 (ms)
+RTT Std Dev: 2.701 (ms)
+
+ --- NDT7 speed tests ---
+Download:	829.0308361995286 Mb/s
+Upload:		35.98289994057396 Mb/s
+DownloadRetrans:0.0 %
+Download Latency:16.447 ms
+{'total_bytes_consumed': 1073792525, 'ipquery': {'error': '<urlopen error [Errno 104] Connection reset by peer>'}, 'ping_latency': {'google_packet_loss_pct': 0.0, 'google_rtt_min_ms': 18.745, 'google_rtt_max_ms': 27.599, 'google_rtt_avg_ms': 23.155, 'google_rtt_mdev_ms': 2.701, 'error': False}, 'ndt7': {'speedtest_ndt7_download': 829.0308361995286, 'speedtest_ndt7_upload': 35.98289994057396, 'speedtest_ndt7_downloadretrans': 0.0, 'speedtest_ndt7_downloadlatency': 16.447, 'speedtest_ndt7_server': 'ndt-mlab1-pdx01.mlab-oti.measurement-lab.org', 'ndt_error': False}}
+Consumption UPDATE: 1073792525 of 340151421843 bytes (316.8GiB).

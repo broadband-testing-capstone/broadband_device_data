@@ -1,0 +1,18 @@
+
+ --- NETWORK MEASUREMENTS ---
+
+ --- google ping latency (MANDATORY) ---
+Packet Loss: 0.0%
+Average RTT: 17.769 (ms)
+Minimum RTT: 20.508 (ms)
+Maximum RTT: 22.997 (ms)
+RTT Std Dev: 1.895 (ms)
+
+ --- Ookla speed tests ---
+Download:	31.901376 Mb/s
+Upload:		20.169728 Mb/s
+Latency:	23.256 ms
+Jitter:		0.889 ms
+PktLoss:	0%
+{'total_bytes_consumed': 82570752, 'ipquery': {'ipv4': '71.236.247.196'}, 'ping_latency': {'google_packet_loss_pct': 0.0, 'google_rtt_min_ms': 17.769, 'google_rtt_max_ms': 22.997, 'google_rtt_avg_ms': 20.508, 'google_rtt_mdev_ms': 1.895, 'error': False}, 'ookla': {'speedtest_ookla_download': 31.901376, 'speedtest_ookla_upload': 20.169728, 'speedtest_ookla_jitter': 0.889, 'speedtest_ookla_latency': 23.256, 'speedtest_ookla_server_host': 'dauntless.wvi.com', 'speedtest_ookla_server_name': 'Stayton Telephone', 'speedtest_ookla_server_id': 11976, 'speedtest_ookla_pktloss2': 0.0, 'ookla_error': False}}
+Consumption UPDATE: 82570752 of 29233546249 bytes (27.2GiB).

@@ -1,0 +1,17 @@
+
+ --- NETWORK MEASUREMENTS ---
+
+ --- google ping latency (MANDATORY) ---
+Packet Loss: 0.0%
+Average RTT: 18.436 (ms)
+Minimum RTT: 21.77 (ms)
+Maximum RTT: 25.8 (ms)
+RTT Std Dev: 2.472 (ms)
+
+ --- NDT7 speed tests ---
+Download:	903.1814048197692 Mb/s
+Upload:		35.321285523491035 Mb/s
+DownloadRetrans:0.00025281311441758305 %
+Download Latency:9.222 ms
+{'total_bytes_consumed': 1169209100, 'ipquery': {'error': 'HTTP Error 502: Bad Gateway'}, 'ping_latency': {'google_packet_loss_pct': 0.0, 'google_rtt_min_ms': 18.436, 'google_rtt_max_ms': 25.8, 'google_rtt_avg_ms': 21.77, 'google_rtt_mdev_ms': 2.472, 'error': False}, 'ndt7': {'speedtest_ndt7_download': 903.1814048197692, 'speedtest_ndt7_upload': 35.321285523491035, 'speedtest_ndt7_downloadretrans': 0.00025281311441758305, 'speedtest_ndt7_downloadlatency': 9.222, 'speedtest_ndt7_server': 'ndt-mlab2-sea04.mlab-oti.measurement-lab.org', 'ndt_error': False}}
+Consumption UPDATE: 1169209100 of 106142734577 bytes (98.9GiB).

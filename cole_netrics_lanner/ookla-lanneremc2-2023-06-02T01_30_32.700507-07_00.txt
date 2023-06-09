@@ -1,0 +1,28 @@
+
+ --- NETWORK MEASUREMENTS ---
+
+ --- google ping latency (MANDATORY) ---
+Packet Loss: 0.0%
+Average RTT: 16.531 (ms)
+Minimum RTT: 21.997 (ms)
+Maximum RTT: 24.769 (ms)
+RTT Std Dev: 2.241 (ms)
+ERROR: ==============================================================================
+
+You may only use this Speedtest software and information generated
+from it for personal, non-commercial use, through a command line
+interface on a personal computer. Your use of this software is subject
+to the End User License Agreement, Terms of Use and Privacy Policy at
+these URLs:
+
+	https://www.speedtest.net/about/eula
+	https://www.speedtest.net/about/terms
+	https://www.speedtest.net/about/privacy
+
+==============================================================================
+
+License acceptance recorded. Continuing.
+
+
+{'total_bytes_consumed': 0, 'ipquery': {'ipv4': '71.236.247.196'}, 'ping_latency': {'google_packet_loss_pct': 0.0, 'google_rtt_min_ms': 16.531, 'google_rtt_max_ms': 24.769, 'google_rtt_avg_ms': 21.997, 'google_rtt_mdev_ms': 2.241, 'error': False}, 'ookla': {'error': '==============================================================================\n\nYou may only use this Speedtest software and information generated\nfrom it for personal, non-commercial use, through a command line\ninterface on a personal computer. Your use of this software is subject\nto the End User License Agreement, Terms of Use and Privacy Policy at\nthese URLs:\n\n\thttps://www.speedtest.net/about/eula\n\thttps://www.speedtest.net/about/terms\n\thttps://www.speedtest.net/about/privacy\n\n==============================================================================\n\nLicense acceptance recorded. Continuing.\n\n', 'ookla_error': True}}
+Consumption UPDATE: 0 of 0 bytes (0.0B).

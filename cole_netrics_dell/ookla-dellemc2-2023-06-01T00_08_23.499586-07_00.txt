@@ -1,0 +1,13 @@
+
+ --- NETWORK MEASUREMENTS ---
+
+ --- google ping latency (MANDATORY) ---
+Packet Loss: 0.0%
+Average RTT: 17.229 (ms)
+Minimum RTT: 22.085 (ms)
+Maximum RTT: 31.287 (ms)
+RTT Std Dev: 4.185 (ms)
+ERROR: {"type":"log","timestamp":"2023-06-01T07:08:06Z","message":"Error: [0] Timeout occurred in connect.","level":"error"}
+
+{'total_bytes_consumed': 0, 'ipquery': {'ipv4': '71.236.247.196'}, 'ping_latency': {'google_packet_loss_pct': 0.0, 'google_rtt_min_ms': 17.229, 'google_rtt_max_ms': 31.287, 'google_rtt_avg_ms': 22.085, 'google_rtt_mdev_ms': 4.185, 'error': False}, 'ookla': {'error': '{"type":"log","timestamp":"2023-06-01T07:08:06Z","message":"Error: [0] Timeout occurred in connect.","level":"error"}\n'}}
+Consumption UPDATE: 0 of 11302090866 bytes (10.5GiB).

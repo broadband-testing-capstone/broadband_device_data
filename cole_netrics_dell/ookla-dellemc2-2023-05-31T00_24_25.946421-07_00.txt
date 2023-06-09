@@ -1,0 +1,18 @@
+
+ --- NETWORK MEASUREMENTS ---
+
+ --- google ping latency (MANDATORY) ---
+Packet Loss: 0.0%
+Average RTT: 33.675 (ms)
+Minimum RTT: 37.756 (ms)
+Maximum RTT: 43.115 (ms)
+RTT Std Dev: 3.116 (ms)
+
+ --- Ookla speed tests ---
+Download:	923.259136 Mb/s
+Upload:		36.155096 Mb/s
+Latency:	26.571 ms
+Jitter:		6.769 ms
+PktLoss:	0%
+{'total_bytes_consumed': 1214034192, 'ipquery': {'ipv4': '71.236.247.196'}, 'ping_latency': {'google_packet_loss_pct': 0.0, 'google_rtt_min_ms': 33.675, 'google_rtt_max_ms': 43.115, 'google_rtt_avg_ms': 37.756, 'google_rtt_mdev_ms': 3.116, 'error': False}, 'ookla': {'speedtest_ookla_download': 923.259136, 'speedtest_ookla_upload': 36.155096, 'speedtest_ookla_jitter': 6.769, 'speedtest_ookla_latency': 26.571, 'speedtest_ookla_server_host': 'speedtest.alyrica.net', 'speedtest_ookla_server_name': 'Alyrica Networks', 'speedtest_ookla_server_id': 24623, 'speedtest_ookla_pktloss2': 0.0, 'ookla_error': False}}
+Consumption UPDATE: 1214034192 of 327912124361 bytes (305.4GiB).

@@ -1,0 +1,17 @@
+
+ --- NETWORK MEASUREMENTS ---
+
+ --- google ping latency (MANDATORY) ---
+Packet Loss: 0.0%
+Average RTT: 16.951 (ms)
+Minimum RTT: 18.576 (ms)
+Maximum RTT: 25.386 (ms)
+RTT Std Dev: 2.43 (ms)
+
+ --- NDT7 speed tests ---
+Download:	835.7393283731604 Mb/s
+Upload:		40.65125769351176 Mb/s
+DownloadRetrans:0.0005313525836121667 %
+Download Latency:17.351 ms
+{'total_bytes_consumed': 1094759375, 'ipquery': {'ipv4': '71.236.197.151'}, 'ping_latency': {'google_packet_loss_pct': 0.0, 'google_rtt_min_ms': 16.951, 'google_rtt_max_ms': 25.386, 'google_rtt_avg_ms': 18.576, 'google_rtt_mdev_ms': 2.43, 'error': False}, 'ndt7': {'speedtest_ndt7_download': 835.7393283731604, 'speedtest_ndt7_upload': 40.65125769351176, 'speedtest_ndt7_downloadretrans': 0.0005313525836121667, 'speedtest_ndt7_downloadlatency': 17.351, 'speedtest_ndt7_server': 'ndt-mlab1-pdx01.mlab-oti.measurement-lab.org', 'ndt_error': False}}
+Consumption UPDATE: 1094759375 of 39291441878 bytes (36.6GiB).

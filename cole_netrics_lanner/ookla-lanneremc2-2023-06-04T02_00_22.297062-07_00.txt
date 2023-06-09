@@ -1,0 +1,18 @@
+
+ --- NETWORK MEASUREMENTS ---
+
+ --- google ping latency (MANDATORY) ---
+Packet Loss: 0.0%
+Average RTT: 17.674 (ms)
+Minimum RTT: 20.492 (ms)
+Maximum RTT: 23.624 (ms)
+RTT Std Dev: 1.7 (ms)
+
+ --- Ookla speed tests ---
+Download:	938.03084 Mb/s
+Upload:		36.430008 Mb/s
+Latency:	29.88 ms
+Jitter:		4.402 ms
+PktLoss:	0%
+{'total_bytes_consumed': 1120793992, 'ipquery': {'ipv4': '71.236.247.196'}, 'ping_latency': {'google_packet_loss_pct': 0.0, 'google_rtt_min_ms': 17.674, 'google_rtt_max_ms': 23.624, 'google_rtt_avg_ms': 20.492, 'google_rtt_mdev_ms': 1.7, 'error': False}, 'ookla': {'speedtest_ookla_download': 938.03084, 'speedtest_ookla_upload': 36.430008, 'speedtest_ookla_jitter': 4.402, 'speedtest_ookla_latency': 29.88, 'speedtest_ookla_server_host': 'speedtest.onlinenw.com', 'speedtest_ookla_server_name': 'Hunter Communications', 'speedtest_ookla_server_id': 3652, 'speedtest_ookla_pktloss2': 0.0, 'ookla_error': False}}
+Consumption UPDATE: 1120793992 of 124926218312 bytes (116.3GiB).

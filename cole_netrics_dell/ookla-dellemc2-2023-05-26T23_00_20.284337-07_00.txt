@@ -1,0 +1,18 @@
+
+ --- NETWORK MEASUREMENTS ---
+
+ --- google ping latency (MANDATORY) ---
+Packet Loss: 0.0%
+Average RTT: 18.77 (ms)
+Minimum RTT: 21.921 (ms)
+Maximum RTT: 24.109 (ms)
+RTT Std Dev: 1.613 (ms)
+
+ --- Ookla speed tests ---
+Download:	938.533016 Mb/s
+Upload:		36.989336 Mb/s
+Latency:	26.414 ms
+Jitter:		4.653 ms
+PktLoss:	0%
+{'total_bytes_consumed': 1159691184, 'ipquery': {'ipv4': '71.236.247.196'}, 'ping_latency': {'google_packet_loss_pct': 0.0, 'google_rtt_min_ms': 18.77, 'google_rtt_max_ms': 24.109, 'google_rtt_avg_ms': 21.921, 'google_rtt_mdev_ms': 1.613, 'error': False}, 'ookla': {'speedtest_ookla_download': 938.533016, 'speedtest_ookla_upload': 36.989336, 'speedtest_ookla_jitter': 4.653, 'speedtest_ookla_latency': 26.414, 'speedtest_ookla_server_host': 'speedtest.viser.com', 'speedtest_ookla_server_name': 'ViserFiber', 'speedtest_ookla_server_id': 25011, 'speedtest_ookla_pktloss2': 0.0, 'ookla_error': False}}
+Consumption UPDATE: 1159691184 of 200915536640 bytes (187.1GiB).

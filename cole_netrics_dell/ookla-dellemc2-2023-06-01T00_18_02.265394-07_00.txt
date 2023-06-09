@@ -1,0 +1,13 @@
+
+ --- NETWORK MEASUREMENTS ---
+
+ --- google ping latency (MANDATORY) ---
+Packet Loss: 0.0%
+Average RTT: 17.084 (ms)
+Minimum RTT: 22.756 (ms)
+Maximum RTT: 26.578 (ms)
+RTT Std Dev: 2.723 (ms)
+ERROR: {"type":"log","timestamp":"2023-06-01T07:17:46Z","message":"Error: [0] Timeout occurred in connect.","level":"error"}
+
+{'total_bytes_consumed': 0, 'ipquery': {'error': '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2548)'}, 'ping_latency': {'google_packet_loss_pct': 0.0, 'google_rtt_min_ms': 17.084, 'google_rtt_max_ms': 26.578, 'google_rtt_avg_ms': 22.756, 'google_rtt_mdev_ms': 2.723, 'error': False}, 'ookla': {'error': '{"type":"log","timestamp":"2023-06-01T07:17:46Z","message":"Error: [0] Timeout occurred in connect.","level":"error"}\n'}}
+Consumption UPDATE: 0 of 12476539225 bytes (11.6GiB).
